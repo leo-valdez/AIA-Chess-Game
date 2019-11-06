@@ -92,5 +92,5 @@ king_endgame_table = [-50, -40, -30, -20, -20, -30, -40, -50,
 <h1>Failed Approach</h2>
 We did try using Alpha-Beta pruning and CNN but due to lack of proper knowledge it wasnt working properly. 
 <h1>Future Improvments</h1>
-Imporoving the game with the approch of RNN, after successful implementation of Aplha-Beta pruning. 
+Imporoving the game with the approch of RNN, after successful implementation of Alpha-Beta pruning. 
 
