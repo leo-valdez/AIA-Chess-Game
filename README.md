@@ -89,7 +89,8 @@ king_endgame_table = [-50, -40, -30, -20, -20, -30, -40, -50,
                       -50, -30, -30, -30, -30, -30, -30, -50]
                  
 ```
+<h1>Failed Approach</h2>
+We did try using Alpha-Beta pruning and CNN but due to lack of proper knowledge it wasnt working properly. 
 <h1>Future Improvments</h1>
-If this Repo gets 100 stars I assure you I'll make an effort to use Reinforcement Learning in this project so please do help...!
-Or one can implement Alpha Pruning to better the outputs in less time.
+Imporoving the game with the approch of RNN, after successful implementation of Aplha-Beta pruning. 
 
